@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "dependencies": {
+        "p5": "^1.4.0"
+    },
+    "devDependencies": {
+        "@types/p5": "^1.3.3"
+    }
+}
